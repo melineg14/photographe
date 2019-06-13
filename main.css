@@ -1,0 +1,146 @@
+@font-face {
+    font-family: "ABSTER";
+    src: url ('ABSTER.otf') ;
+}
+
+body{
+    background-color: rgb(236, 226, 226);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.maintitle{
+    margin-right: 2em;
+}
+
+h1{
+    text-align: center;
+    height: 65px;
+    color: rgb(136, 44, 44);
+    font-family: 'ABSTER';
+    font-size: 24px;
+    padding: .9em;
+}
+
+.pied{
+    text-align: center;
+    background-color: rgb(224, 184, 184);
+    height: 35px;
+    padding: .8em;
+    font-size: 12px;
+}
+
+.mentions{
+    text-decoration: none;
+    color: #919AA3;
+}
+
+.mentions:hover{
+    color: #919AA3;
+}
+
+/*home*/
+
+.d-block{
+    margin: auto;
+    height: 495px;
+    width: 800px;
+}
+
+/*a propos*/
+
+.title{
+    width: 500px;
+    margin: auto;
+    border-bottom: double;
+    border-color: rgb(136, 44, 44);
+    margin-bottom: .5em;
+}
+
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    display: block;
+    margin-bottom: 1em;
+}
+
+.text{
+    margin: auto;
+    width: 800px;
+    text-align: justify;
+}
+
+.title3{
+    text-align: center;
+    margin: .5em;
+    color: rgb(136, 44, 44);
+}
+
+.img1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-bottom: 1.5em;
+}
+
+
+/*realisations*/
+
+.row{
+    width: 900px;
+    margin: auto;
+}
+
+.portrait{
+    width: 260px;
+    height: 385px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.content{
+    width: 600px;
+    margin: auto;
+}
+
+.couple{
+    width: 598px;
+}
+
+.paysage{
+    width: 350px;
+}
+
+.container{
+    width: 895px;
+    margin: auto;
+}
+
+/*montage*/
+
+#form{
+    margin-bottom: 1em;
+}
+
+.container1, p{
+    text-align: justify;
+}
+
+.container1{
+    width: 518px;
+    margin: auto;
+}
+
+#btn{
+    margin-bottom: 1em;
+}
